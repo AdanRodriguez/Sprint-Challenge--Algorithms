@@ -3,13 +3,13 @@
 ## Exercise I
 
 a) O(n)
-    there is just one loop
+    Linear,there is just one loop
 
 b) O(n^2)
-    there is a nested while loop in the for loop 
+    Polynomial, there is a nested while loop in the for loop 
 
 c) O(n)
-    no loop 
+    Linear, no loop 
 
 ## Exercise II
 
